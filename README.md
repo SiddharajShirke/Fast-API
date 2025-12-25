@@ -1,1 +1,1 @@
-# MedGuard
+# Practice project
